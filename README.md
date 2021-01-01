@@ -15,8 +15,8 @@ Em aprendizado
 - [x] Seção 4
 - [x] Seção 5
 - [x] Seção 6
-- [ ] Seção 7
-- [ ] Seção 8
+- [x] Seção 7
+- [x] Seção 8
 - [ ] Seção 9
 - [ ] Seção 10
 - [ ] Seção 11
